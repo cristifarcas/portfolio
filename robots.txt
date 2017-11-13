@@ -7,13 +7,6 @@ Disallow: /test/
 Disallow: /assets/
 Disallow: /cv/
 
-Disallow: app-demo.html
-Disallow: axa-slide2.html
-Disallow: axa-slide3.html
-Disallow: design-chalange.html
-Disallow: gallery.html
-Disallow: gallery.html
-Disallow: main_slide.html 
 
 Disallow: study3.pdf
 Disallow: study4.pdf
